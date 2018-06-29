@@ -1,3 +1,3 @@
 # Swapcase
-u= input("Enter String")
+u= input()
 print(u.swapcase())
